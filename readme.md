@@ -3,6 +3,6 @@
 
 # [ Архитектура аппаратных средств ](/ArchPC)
 # [Внедрение и поддержка компьютерных систем](/CompSystem)
-## [Лабораторные работы] (CompSystem/Labaratory) 
+## [Лабораторные работы](CompSystem/Labaratory) 
 ### [1 лабораторная работа](CompSystem/Labaratory/winaudit.md)
 # [ Компьютерные сети](/CompSeti)

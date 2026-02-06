@@ -2,4 +2,4 @@
 
 # [ Конспекты ](/Conspecty)
 # [Лабы](/Labaratory)
-# [ Практические ](/Practic)
+# [ Практические ](CompSystem/Practic)
